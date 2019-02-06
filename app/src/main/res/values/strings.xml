@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OfficeManagementSystem</string>
+    <string name="username">Enter UserName</string>
+    <string name="password">Enter Password</string>
+    <string name="sign_in">Sing In</string>
+    <string name="not_having_account">Not Having Account</string>
+    <string name="register">Register</string>
+    <string name="usename">Username</string>
+    <string name="pasword">Password</string>
+    <string name="signin">SING IN</string>
+    <string name="nt_having_account">Not Having Account?</string>
+    <string name="regster">REGISTER</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sigin">SIGN IN</string>
+    <string name="fullname">Full Name</string>
+</resources>
